@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "hola22"
+  default = "hola222"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "pruebacesagrvefwtgbrvfedwr"
+  default     = "pruebacesagrvefwtgbrvfe2d2edwr"
 }
 
 variable "location" {
